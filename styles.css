@@ -124,6 +124,6 @@ p {
   text-align: center;
 }
 
-.post-container:nth-child(even) {
+/* .post-container:nth-child(even) {
   background-color: lightgrey;
-}
+} */
